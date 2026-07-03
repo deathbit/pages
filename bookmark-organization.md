@@ -392,10 +392,10 @@
 | 163 | `CHSI` | <https://www.chsi.com.cn/> |
 | 206 | `DISCORD` | <https://discord.com/> |
 | 98 | `DITU-AMAP` | <https://ditu.amap.com/> |
-| 96 | `DOCS-GOOGLE-D-1-5NZMPGYOV2EHTLZHND5S` | <https://docs.google.com/spreadsheets/d/1_5NzmPgYOV2EHTlZHnD5S3hbAsKyo_xXEySwWTM7Uz8/edit?gid=388800378#gid=388800378> |
-| 493 | `DOCS-GOOGLE-D-14DCF1ULY7E8RIW7NG9N` | <https://docs.google.com/document/d/14dcf1ULy7E8RiW7NG9NtDC6ru5YmrqnOmbjBcFwNoO0/edit?tab=t.0> |
-| 587 | `DOCS-GOOGLE-D-15TFKFK8ZLJXGHDXKQY9-DKIVE7WPVIZQ` | <https://docs.google.com/document/d/15TFKFK8zLJXGhDXKQY9fIV7_DkIvE7wPViZQ-pj9Eg4/edit?tab=t.0#heading=h.hsxnk3u3p3fd> |
-| 739 | `DOCS-GOOGLE-D-1UXBBDVCHKSOAMIQ9GJQ-P77GFGWY` | <https://docs.google.com/document/d/1uXbBdvcHkSoamiq9GJQvDA7xIygvcNlGG4_p77GfgwY/edit?tab=t.0#heading=h.7rc07u80u7f> |
+| 96 | `GOOGLE-SHEETS-1` | <https://docs.google.com/spreadsheets/d/1_5NzmPgYOV2EHTlZHnD5S3hbAsKyo_xXEySwWTM7Uz8/edit?gid=388800378#gid=388800378> |
+| 493 | `GOOGLE-DOCS-1` | <https://docs.google.com/document/d/14dcf1ULy7E8RiW7NG9NtDC6ru5YmrqnOmbjBcFwNoO0/edit?tab=t.0> |
+| 587 | `GOOGLE-DOCS-2` | <https://docs.google.com/document/d/15TFKFK8zLJXGhDXKQY9fIV7_DkIvE7wPViZQ-pj9Eg4/edit?tab=t.0#heading=h.hsxnk3u3p3fd> |
+| 739 | `GOOGLE-DOCS-3` | <https://docs.google.com/document/d/1uXbBdvcHkSoamiq9GJQvDA7xIygvcNlGG4_p77GfgwY/edit?tab=t.0#heading=h.7rc07u80u7f> |
 | 299 | `DRIVE-GOOGLE` | <https://drive.google.com/> |
 | 300 | `DRIVE-GOOGLE-2` | <https://drive.google.com/> |
 | 356 | `DRIVE-GOOGLE-FILE-D-1C` | <https://drive.google.com/file/d/1C-HvqgxM7dj4G2kCQLnuMXi1fTpXRdpx/view> |
